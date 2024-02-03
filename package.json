@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+    "audit-fix": "npm audit fix"
   },
   "dependencies": {
     "discord.js-selfbot-v13": "2.9.13",
